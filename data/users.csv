@@ -1,0 +1,11 @@
+UserID,Username,Password,Role
+1,Sammy,sam123$,admin
+2,John,J123ohn,librarian
+3,Emma,E1239#@,librarian
+4,David,Dav@i123$,user
+5,Jennifer,jen2304$,user
+6,Evelyn,e1256,user
+7,Mark,M2367$,user
+8,Rita,Ri1298,user
+9,Frank,$F1298$,user
+10,Albert,Al1542$*,user
