@@ -1,0 +1,18 @@
+   # Ignore specific file extensions
+   *.exe
+   *.o
+   *.obj
+   *.out
+   *.dll
+   *.so
+   *.dylib
+
+   # Ignore specific directories
+   bin/
+   obj/
+   Debug/
+   Release/
+
+   # Ignore VS Code settings
+   .vscode/
+   *.json
