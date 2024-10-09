@@ -201,8 +201,8 @@ void viewAllBooks() {
     while (fgets(line, sizeof(line), file)) {
         printf("%s", line);
     }
-    printf("\n");
     fclose(file);
+    printf("\n");
 }
 
 // Function to search books based on title, author, or genre
