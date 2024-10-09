@@ -234,4 +234,5 @@ void searchBooks() {
     }
 
     fclose(file);
+    printf("\n");
 }
