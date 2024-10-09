@@ -133,4 +133,5 @@ void viewAllUsers() {
     }
 
     fclose(file);
+    printf("\n");
 }
