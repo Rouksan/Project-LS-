@@ -92,7 +92,7 @@ void issueBook() {
     while (fgets(lineBuffer, sizeof(lineBuffer), books)) {
         int currentID;
         char available[10];
-        sscanf(lineBuffer, "%d,%[^,],%[^,],%*[^,],%s", &currentID, available); // Extracting bookID and availability
+        sscanf(lineBuffer, "%d,%*[^,],%*[^,],%*[^,],%s", &currentID, available); // Extracting bookID and availability
         if (currentID == bookID && strcmp(available, "Yes") == 0) {
             bookAvailable = 1; // Book is available
             break;
