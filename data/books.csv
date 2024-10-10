@@ -1,6 +1,6 @@
 BookID,Title,Author,Genre,Available
 1,Verity,Colleen Hoover,Thriller,Yes
-2,The Adventures of Tom Sawyer,Mark Twain,Comedy,No
+2,The Adventures of Tom Sawyer,Mark Twain,Comedy,Yes
 3,Pride and Prejudice,Jane Austen,Romance,Yes
 4,Little Women,Louisa May Alcott,Coming of age,Yes
 5,The Hunger Games,Suzanne Collins,Science fiction,Yes
